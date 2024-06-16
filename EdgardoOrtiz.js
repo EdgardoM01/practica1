@@ -22,9 +22,9 @@ const clientes = [
   },
   {
     id: 3,
-    nombre: 'Bartolo',
+    nombre: 'Lisbeth',
     apellido: 'Gimenez',
-    edad: 40,
+    edad: 47,
     servicios: [
       { nombre: 'HBO+', estado: true }
     ]
@@ -41,8 +41,8 @@ const clientes = [
   },
   {
     id: 5,
-    nombre: 'Ana',
-    apellido: 'Martinez',
+    nombre: 'Carolina',
+    apellido: 'Rijo',
     edad: 35,
     servicios: [
       { nombre: 'Netflix', estado: true },
