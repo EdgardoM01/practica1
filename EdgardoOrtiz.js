@@ -12,8 +12,8 @@ const clientes = [
   },
   {
     id: 2,
-    nombre: 'Juan',
-    apellido: 'Perez',
+    nombre: 'Pablo',
+    apellido: 'Reyes',
     edad: 25,
     servicios: [
       { nombre: 'Netflix', estado: false },
